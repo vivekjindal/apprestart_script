@@ -44,6 +44,7 @@ goto analyze
 :: take actions if process is not running or hung
 :hung
 echo %date% %time% Killing the hung application... >> %logfile% && echo %date% %time% Killing the hung application...
+set appstatus=%appstatus:"=%
 TASKKILL /FI "STATUS eq %appstatus%" /IM "%exename%" /F
 echo %date% %time% Waiting for %waittime% seconds to give enough time for %appname% to be killed. >> %logfile% && echo %date% %time% Waiting for %waittime% seconds to give enough time for %appname% to be killed.
 timeout /T %waittime% /NOBREAK > nul
