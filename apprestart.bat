@@ -1,7 +1,7 @@
 @echo off
 
 :: ###################################################################
-:: Source URL:      https://github.com/vivekjindal/apprestart_script
+:: Source URL:https://github.com/vivekjindal/apprestart_script
 :: ###################################################################
 
 
