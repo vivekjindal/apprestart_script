@@ -2,7 +2,7 @@
 
 This script when started will run continuously in loop mode. Script checks for a process as defined in script configuration and takes actions based on process status.
 
-I wrote this script when I was given a task to monitor a process continuously to ensure it was running. It was really a pain in the ass to see in task manager if process was running or not. Start it if not running; kill it and restart if it's hung.
+I wrote this script when I was given a task to monitor a process continuously to ensure it was running. It was really a pain in the ass to see in task manager if process was running or not. This script will start the process if it's not running; kill it and restarts it if it's hung.
 
 If you also have such kind of tasks in your job profile just download my script, configure it as per your needs and voila! Have fun...
 
