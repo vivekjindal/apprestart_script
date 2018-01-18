@@ -14,3 +14,4 @@ __exepath:__ put path of executable here
 __timeout:__ after how many seconds should the script check for process status  
 
 # script in action
+![Script in action](https://github.com/vivekjindal/apprestart_script/raw/master/images/screenshot.PNG)
