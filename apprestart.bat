@@ -9,8 +9,8 @@
 set appname=Notepad
 set exename=notepad.exe
 set exepath=c:\windows\system32
-set logfile=%temp%\apprestart_script.log
 set timeout=300
+set logfile=%temp%\apprestart_script.log
 set /A instance=0
 set waittime=5
 

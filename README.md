@@ -5,14 +5,14 @@ I wrote this script when I was given a task to monitor a process continuously to
 If you also have such kind of tasks in your job profile just download my script, configure it as per your needs and voila! Have fun...
 
 # Script configuration:
-
+![Script configuration](https://raw.githubusercontent.com/vivekjindal/apprestart_script/master/images/screenshot1.png)  
 __appname:__ put a fancy name of your app here  
 __exename:__ put name executable here  
 __exepath:__ put path of executable here  
 __timeout:__ after how many seconds should the script check for process status  
 
 # Script in action
-![Script in action](https://github.com/vivekjindal/apprestart_script/raw/master/images/screenshot.PNG)
+![Script in action](https://raw.githubusercontent.com/vivekjindal/apprestart_script/master/images/screenshot2.png)
 
 
 # Notes:
